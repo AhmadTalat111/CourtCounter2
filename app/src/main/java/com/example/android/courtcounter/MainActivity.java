@@ -12,6 +12,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+    /**
+     * just trying to edit my first upload to github
+     */
+
+
     int scoreTeamA = 0;
     int scoreTeamB = 0;
 
